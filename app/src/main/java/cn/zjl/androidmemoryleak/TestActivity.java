@@ -1,9 +1,11 @@
-package com.thejoyrun.androidmemoryleak;
+package cn.zjl.androidmemoryleak;
 
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
+
+import com.thejoyrun.androidmemoryleak.R;
 
 public class TestActivity extends AppCompatActivity {
     private TextView textView;
