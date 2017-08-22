@@ -5,6 +5,9 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+/**
+ * Created by zhangjilei on 2017/6/18.
+ */
 public class TestActivity extends AppCompatActivity {
     private TextView textView;
     private int timer;
